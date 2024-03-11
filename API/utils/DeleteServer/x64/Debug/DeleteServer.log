@@ -1,0 +1,3 @@
+﻿  DeleteServer.cpp
+D:\Programmation\Divers\dashboard_server\API\utils\DeleteServer\DeleteServer.cpp(23,26): warning C4101: 'e' : variable locale non référencée
+  DeleteServer.vcxproj -> D:\Programmation\Divers\dashboard_server\API\utils\DeleteServer\x64\Debug\DeleteServer.exe
